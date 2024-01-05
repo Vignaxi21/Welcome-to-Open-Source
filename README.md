@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Vignaxi21">
+                    <img src="https://avatars.githubusercontent.com/u/143875442?v=4" width="100px;" alt="Vignaxi Kapdee"/>
+                    <br />
+                    <sub><b>Vignaxi Kapdee</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
